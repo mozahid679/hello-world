@@ -87,6 +87,10 @@ This command also creates the table in the database.
 `php artisan migrate:status` checks the status of the migration.\
 `migrate:status` checks the migrations we have run.
 
+### `php artisan serve `
+
+The Laravel PHP artisan serve command helps running applications on the PHP development server.\
+This utility is extensively used for setting up migrations, routes listings, queueing, class creations, and other related tasks.
         
 ## Deployment
 
