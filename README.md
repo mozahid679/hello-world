@@ -78,6 +78,15 @@ This command will update the key stored in the application's environment file.
 
 The command also supports an optional --show flag.\
 Specifying this flag will simply show the generated key instead of updating any configuration or environment files.
+
+### `php artisan migrate `
+
+`php artisan migrate` publishes all our schema to the database.\
+This command also creates the table in the database.
+
+`php artisan migrate:status` checks the status of the migration.\
+`migrate:status` checks the migrations we have run.
+
         
 ## Deployment
 
