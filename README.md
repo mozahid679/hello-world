@@ -100,15 +100,15 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 + [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 + [Slick Carousel](https://kenwheeler.github.io/slick/)
 + [Particles](https://teknivers.com/website/js/particles.min.js)
-+ [gsap](https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js)
++ [Gsap](https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js)
 + [TimelineMax](https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineMax.min.js)
 + [ScrollTrigger](https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js)
 + [TweenMax](https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js)
 + [ScrollMagic](https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js)
-+ [aos](https://teknivers.com/website/js/aos.js)
-+ [glightbox](https://teknivers.com/website/js/glightbox.min.js)
-+ [isotope](https://teknivers.com/website/js/isotope.pkgd.min.js)
-+ [swiper](https://teknivers.com/website/js/swiper-bundle.min.js)
++ [Aos](https://teknivers.com/website/js/aos.js)
++ [Glightbox](https://teknivers.com/website/js/glightbox.min.js)
++ [Isotope](https://teknivers.com/website/js/isotope.pkgd.min.js)
++ [Swiper](https://teknivers.com/website/js/swiper-bundle.min.js)
 
 ### The application used this plugin:
 
