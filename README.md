@@ -92,7 +92,7 @@ This command also creates the table in the database.
 The Laravel PHP artisan serve command helps running applications on the PHP development server.\
 This utility is extensively used for setting up migrations, routes listings, queueing, class creations, and other related tasks.
 
-See the section about [deployment]([https://facebook.github.io/create-react-app/docs/deployment](https://github.com/laravel/laravel)) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment](https://github.com/laravel/laravel) for more information.
         
 ## Deployment
 
