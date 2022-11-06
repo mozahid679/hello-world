@@ -78,6 +78,7 @@ For the available versions, see the tags on this repository
 
 ## Authors
 #### Teknivers
+### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
     • Github(https://github.com/Eurosiamart-Rayple-IT-Development)
     • Website(https://teknivers.com/)
     • Facebook(https://www.facebook.com/profile.php?id=100075916298048)
