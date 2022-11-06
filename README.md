@@ -129,10 +129,12 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 + [Isotope](https://teknivers.com/website/js/isotope.pkgd.min.js)
 + [Swiper](https://teknivers.com/website/js/swiper-bundle.min.js)
 
-### The application used this plugin:
+### The application used this plugin(s):
 
 + [TinyMCE 5.0.0](https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js)
-+ Path Autocomplete
+
++ [Font Awesome 6.0]([https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js](https://fontawesome.com/))
+
 
 ## Authors
 
