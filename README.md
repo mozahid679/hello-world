@@ -65,9 +65,10 @@ Part 2: Heading
 • Update the Composer.
     
 ### composer update
-<p>update full packages of the file</p>
+<p>update full packages of the file.</p>
+
 ### key generate
-<p>update full packages of the file</p>
+<p>update full packages of the file.</p>
         
 ## Deployment
 This section is completely optional. Add additional notes about how to deploy this on a live system.
