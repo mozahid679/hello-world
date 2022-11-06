@@ -5,14 +5,7 @@
     • Getting Started
         ◦ Tools Required
         ◦ Installation
-    • Development
-        ◦ Part 1: Heading
-            ▪ Step 1: Subheading
-            ▪ Step 2: Subheading
-        ◦ Part 2: Heading
     • Running the App
-    • Deployment
-    • Contributing
     • Versioning
     • Authors
     • License
@@ -29,7 +22,6 @@ Other details that need to be given while starting out with the project can be p
         ├── public
         │   ├── favicon.ico
         │   ├── index.html
-        │   └── manifest.json
         └── src
                 ├── App.css
                 ├── App.js
@@ -46,7 +38,6 @@ All tools required go here. You would require the following tools to develop and
  +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
  + A browser like Google Chrome or Mozilla Firefox.
   
-
 ### Installation
 You can install and use **Teknivers** as follows:
 All installation steps go here.
@@ -54,7 +45,6 @@ All installation steps go here.
 1. Clone or download this Repositories (https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers).
 2. If the file was downloaded, then unzip it and open it on a Code Editor.
 3. 
-
 
 ## Development
 This section is completely optional. For big projects, the developement strategies are not discussed. But for small projects, you can give some insight to people. It has 2 benefits in my opinion:
@@ -74,22 +64,28 @@ Part 2: Heading
 Steps and commands for running the app are to be included here
     • Example steps:
         Example command
+        
 ## Deployment
-This section is completely optional. Add additional notes about how to deploy this on a live system
+This section is completely optional. Add additional notes about how to deploy this on a live system.
+
 ## Contributing
 Mention what you expect from the people who want to contribute
 We'd love to have your helping hand on Project Title! See CONTRIBUTING.md for more information on what we're looking for and how to get started.
+
 ## Versioning
 If your project has multiple versions, include information about it here.
 For the available versions, see the tags on this repository
+
 ## Authors
 #### Teknivers
     • Github (https://github.com/Eurosiamart-Rayple-IT-Development).
     • Website (https://teknivers.com/).
     • Facebook (https://www.facebook.com/profile.php?id=100075916298048). 
-    • LinkedIn (https://www.linkedin.com/company/eurosiamart/?viewAsMember=true). 
+    • LinkedIn (https://www.linkedin.com/company/eurosiamart/?viewAsMember=true).
+    
 ## License
 Teknivers is open source software licensed as MIT.
+
 ## Acknowledgments
 This section can also be called as Resources or References
     • Code Honor if someone's work was referred to
