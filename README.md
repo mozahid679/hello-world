@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center"><a href="https://teknivers.com/">Teknivers</a></h3>
 
-`Teknivers` is an international leading Software Conpany. We provide customers amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems.	Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life.
+`Teknivers` is an international leading Software company. We provide customers with amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems. Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life.
     
 ## Table of Contents
 
@@ -9,15 +9,16 @@
         ◦ Tools Required
         ◦ Installation
     • Running the App
+    • Extensions
     • Versioning
     • Authors
     • License
     
 ## Getting Started
 
-The project might have multiple branches: master, development, etc. which can be explained here
-    • master contains aggregate code of all branches
-    • development contains code under development
+The project have multiple branches: main, devp, devm etc. which can be explained here
+    • main contains aggregate code of all branches
+    • others contains code under development
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
         project-title
         ├── README.md
