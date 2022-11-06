@@ -109,11 +109,11 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 ### List of Javascript file used in this application :
 
-+ [Vue](https://vuejs.org/)
++ [Vue 3](https://vuejs.org/)
 + [Alpine](https://alpinejs.dev/)
 + [CropperJs](https://fengyuanchen.github.io/cropperjs/)
 + [Lodash](https://lodash.com/)
-+ [SweetAlert](https://sweetalert2.github.io/)
++ [SweetAlert 2](https://sweetalert2.github.io/)
 + [Dropzone](https://www.dropzone.dev/)
 + [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 + [Slick Carousel](https://kenwheeler.github.io/slick/)
