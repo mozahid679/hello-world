@@ -20,7 +20,8 @@ The project have multiple branches: main, devp, devm etc. which can be explain
     • main contains aggregate code of all branches
     • others contains code under development
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
-        project-title
+
+```project-title
         ├── README.md
         ├── package.json
         ├── .gitignore
@@ -37,12 +38,14 @@ Other details that need to be given while starting out with the project can be p
                 └── serviceWorker.js
                 └── setupTests.js
                 
+```
+                
 ## Tools Required
 
 All tools required go here. You would require the following tools to develop and run the project:
  + A terminal like ( Windows terminal for Windows, Homebrew for Mac Os).
  + A text editor or an IDE (like Visual Studio Code, or Sublime Text Editor).
- +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
+ +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. *NB: To run .test you need to configure laragon as Nginx.*
  + A browser like Google Chrome or Mozilla Firefox.
 
 
