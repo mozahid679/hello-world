@@ -95,9 +95,9 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 ## Extensions
 
-### Install the below extensions:
+### The application used this plugin:
 
-+ ESLint
++ [TinyMCE 5.0.0] (<script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>)
 + Prettier
 + Path Autocomplete
 
