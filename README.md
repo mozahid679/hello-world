@@ -109,12 +109,3 @@ This section is completely optional. Add additional notes about how to deploy th
 ## License
 
 Teknivers is open source software licensed as MIT.
-
-## Acknowledgments
-
-This section can also be called as Resources or References
-+ Code Honor if someone's work was referred to
-+ Tutorials followed
-+ Articles that helped
-+ Inspiration
-+ etc
