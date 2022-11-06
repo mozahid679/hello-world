@@ -68,7 +68,7 @@ All installation steps go here.
     
 ### `composer update`
 
-This will fetch the latest matching versions (according to your composer. json file) and
+This will fetch the latest matching versions (according to your composer. json file).
 Update the lock file with the new versions.\
 
 ### `key generate`
