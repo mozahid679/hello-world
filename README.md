@@ -53,9 +53,12 @@ All tools required go here. You would require the following tools to develop and
 You can install and use **Teknivers** as follows:
 All installation steps go here.
 
-1. Clone or download this Repositories (`https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers`).
-2. If the file was downloaded, then unzip it and open it on a Code Editor.
-3. 
+1. Clone or download this Repositories    ```sh
+   git clone https://github.com/learnwithsumit/hack-programming-hero.git
+   ``` 
+   (`https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers`).
+3. If the file was downloaded, then unzip it and open it on a Code Editor.
+4. 
 
 ## Development
 
