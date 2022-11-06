@@ -1,6 +1,6 @@
 # Teknivers
 
-<p>`Teknivers` is an international leading Software Conpany. We provide customers amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems.	Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life. </p>
+`Teknivers` is an international leading Software Conpany. We provide customers amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems.	Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life.
     
 ## Table of Contents
 
