@@ -60,7 +60,11 @@ All installation steps go here.
    https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
    ``` 
 2. If the file was downloaded, then unzip it and open it on a Code Editor.
-3. 
+3. update the composer.
+4. Generate the key.
+5. make a database named `teknivers`.
+6. use migrte command.
+7. command, `php artisan serve` to start the server.
 
 ## Development
 
