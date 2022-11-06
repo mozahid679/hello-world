@@ -71,10 +71,13 @@ All installation steps go here.
 This will fetch the latest matching versions (according to your composer. json file).\
 Update the lock file with the new versions.
 
-### `key generate`
+### `key:generate`
 
-<p>update full packages of the file.</p>
+The `key:generate` command is used to generate a random key.\
+This command will update the key stored in the application's environment file.
 
+The command also supports an optional --show flag.\
+Specifying this flag will simply show the generated key instead of updating any configuration or environment files.
         
 ## Deployment
 
