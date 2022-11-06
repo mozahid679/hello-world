@@ -12,7 +12,7 @@
     • Versioning
     • Authors
     • License
-    • Acknowledgments\
+    • Acknowledgments
     
 ## Getting Started
 
