@@ -48,7 +48,6 @@ All tools required go here. You would require the following tools to develop and
  +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. *NB: To run .test you need to configure laragon as Nginx.*
  + A browser like Google Chrome or Mozilla Firefox.
 
-
 ## Installation
 
 You can install and use **Teknivers** as follows:
@@ -133,7 +132,6 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 + [TinyMCE 5.0.0](https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js)
 + Path Autocomplete
-
 
 ## Authors
 
