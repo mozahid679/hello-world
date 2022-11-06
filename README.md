@@ -62,8 +62,8 @@ Part 2: Heading
     • Mention the steps here
 ## Running the App
 <p>Steps and commands for running the app are to be included here</p>
-    • Update the Composer :
-        #### composer update
+    • Update the Composer
+    #### composer update
         
 ## Deployment
 This section is completely optional. Add additional notes about how to deploy this on a live system.
