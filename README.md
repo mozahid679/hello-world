@@ -95,9 +95,15 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 ## Extensions
 
+### List of Javascript file used in this application :
+
++ [TinyMCE 5.0.0](https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js)
++ Prettier
++ Path Autocomplete
+
 ### The application used this plugin:
 
-+ [TinyMCE 5.0.0](<script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>)
++ [TinyMCE 5.0.0](https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js)
 + Prettier
 + Path Autocomplete
 
