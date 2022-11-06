@@ -95,9 +95,6 @@ This section can also be called as Resources or References
     • etc
 
 
-
-
-
 Available Scripts
 In the project directory, you can run:
 npm start
