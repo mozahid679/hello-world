@@ -47,7 +47,9 @@ All tools required go here. You would require the following tools to develop and
  + A text editor or an IDE (like Visual Studio Code, or Sublime Text Editor).
  +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
  + A browser like Google Chrome or Mozilla Firefox.
-  
+ 
+<!-- HOW TO Install -->
+
 ## Installation
 
 You can install and use **Teknivers** as follows:
@@ -55,7 +57,7 @@ All installation steps go here.
 
 1. Clone or download this Repositories   
 ```sh
-   git clone https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
+   https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
    ``` 
 3. If the file was downloaded, then unzip it and open it on a Code Editor.
 4. 
