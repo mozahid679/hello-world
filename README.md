@@ -95,8 +95,23 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 ## Extensions
 
+### The application used these Languages and dependences.:
+
++ HTML
++ CSS
++ PHP 7.4
++ Laravel 8
++ Bootstrap 4 for Frontend
++ Bootstrap 5 for Backend
+
 ### List of Javascript file used in this application :
 
++ [Vue](https://vuejs.org/)
++ [Alpine](https://alpinejs.dev/)
++ [CropperJs](https://fengyuanchen.github.io/cropperjs/)
++ [Lodash](https://lodash.com/)
++ [SweetAlert](https://sweetalert2.github.io/)
++ [Dropzone](https://www.dropzone.dev/)
 + [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 + [Slick Carousel](https://kenwheeler.github.io/slick/)
 + [Particles](https://teknivers.com/website/js/particles.min.js)
@@ -113,7 +128,6 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 ### The application used this plugin:
 
 + [TinyMCE 5.0.0](https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js)
-
 + Path Autocomplete
 
 
