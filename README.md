@@ -36,7 +36,7 @@ Other details that need to be given while starting out with the project can be p
                 └── serviceWorker.js
                 └── setupTests.js
                 
-### Tools Required
+## Tools Required
 
 All tools required go here. You would require the following tools to develop and run the project:
  + A terminal like ( Windows terminal for Windows, Homebrew for Mac Os).
