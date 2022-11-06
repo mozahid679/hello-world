@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series</a></h3>
+  <h3 align="center"><a href="https://teknivers.com/">Teknivers</a></h3>
 
 
 # Teknivers
