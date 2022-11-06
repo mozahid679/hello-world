@@ -42,10 +42,12 @@ Other details that need to be given while starting out with the project can be p
                 └── setupTests.js
 ### Tools Required
 All tools required go here. You would require the following tools to develop and run the project:
-    •  A terminal like ( Windows terminal for Windows, Homebrew for Mac Os).
-    •  A text editor or an IDE (like Visual Studio Code, or Sublime Text Editor).
-    • Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
-    •  A browser like Google Chrome or Mozilla Firefox.
+ • A terminal like ( Windows terminal for Windows, Homebrew for Mac Os).
+ • A text editor or an IDE (like Visual Studio Code, or Sublime Text Editor).
+ •  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
+ • A browser like Google Chrome or Mozilla Firefox.
+ • 
+
 ### Installation
 You can install and use **Teknivers** as follows:
 All installation steps go here.
