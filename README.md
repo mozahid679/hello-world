@@ -1,9 +1,6 @@
 <p align="center">
   <h3 align="center"><a href="https://teknivers.com/">Teknivers</a></h3>
 
-
-# Teknivers
-
 `Teknivers` is an international leading Software Conpany. We provide customers amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems.	Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life.
     
 ## Table of Contents
@@ -47,15 +44,14 @@ All tools required go here. You would require the following tools to develop and
  + A text editor or an IDE (like Visual Studio Code, or Sublime Text Editor).
  +  Any relational database software (like Laragon). If you use Laragon then simply go www directory and then clone the repository there and simply run the project as teknivers.test in your browser. NB: To run .test you need to configure laragon as Nginx.
  + A browser like Google Chrome or Mozilla Firefox.
- 
-<!-- HOW TO Install -->
+
 
 ## Installation
 
 You can install and use **Teknivers** as follows:
 All installation steps go here.
 
-1. Clone or download this Repositories   
+1. Clone or download this Repositories  
 ```sh
    https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
    ``` 
@@ -66,22 +62,6 @@ All installation steps go here.
 6. use migrte command.
 7. command, `php artisan serve` to start the server.
 
-## Development
-
-This section is completely optional. For big projects, the developement strategies are not discussed. But for small projects, you can give some insight to people. It has 2 benefits in my opinion:
-    1. It's a way to give back to the community. People get to learn from you and appreciate your work
-    2. You can refer the README in future as a quick refresher before an interview or for an old project to check if it can help you in your currect work
-Part 1: Heading
-Step 1: Subheading
-    • Mention the steps here
-        ◦ You can also have nested steps to break a step into small tasks
-Step 2: Subheading
-    • Mention the steps here.
-        ◦ You can also have nested steps to break a step into small tasks
-For details now how everything has been implemented, refer the source code
-Part 2: Heading
-    • Mention the steps here
-    
 ## Running the App
 
 <p>Steps and commands for running the app are to be included here</p>
