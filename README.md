@@ -59,8 +59,8 @@ All installation steps go here.
 ```sh
    https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
    ``` 
-3. If the file was downloaded, then unzip it and open it on a Code Editor.
-4. 
+2. If the file was downloaded, then unzip it and open it on a Code Editor.
+3. 
 
 ## Development
 
