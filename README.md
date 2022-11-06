@@ -1,7 +1,9 @@
 <p align="center">
   <h3 align="center"><a href="https://teknivers.com/">Teknivers</a></h3>
 
-`Teknivers` is an international leading Software company. We provide customers with amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems. Your idea matters. You come up with the ideas, and we handle the rest. We have a highly qualified team who can assist you bring your ideas to life.
+`Teknivers` is an international leading Software company. We provide customers with amazing web development services that have been expertly and passionately created. We offer the most effective and affordable digital signage systems. Your idea matters.
++ You come up with the ideas, and we handle the rest.
++  We have a highly qualified team who can assist you bring your ideas to life.
     
 ## Table of Contents
 
@@ -10,7 +12,6 @@
         ◦ Installation
     • Running the App
     • Extensions
-    • Versioning
     • Authors
     • License
     
@@ -68,7 +69,7 @@ All installation steps go here.
 
 <p>Steps and commands for running the app are to be included here</p>
     
-### `#composer update`
+### `composer update`
 
 This will fetch the latest matching versions (according to your composer. json file).\
 Update the lock file with the new versions.
