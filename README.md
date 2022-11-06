@@ -68,7 +68,7 @@ All installation steps go here.
 
 <p>Steps and commands for running the app are to be included here</p>
     
-### `composer update`
+### `#composer update`
 
 This will fetch the latest matching versions (according to your composer. json file).\
 Update the lock file with the new versions.
