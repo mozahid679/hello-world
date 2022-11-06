@@ -78,10 +78,10 @@ For the available versions, see the tags on this repository
 
 ## Authors
 #### Teknivers
-    • Github (https://github.com/Eurosiamart-Rayple-IT-Development).
-    • Website (https://teknivers.com/).
-    • Facebook (https://www.facebook.com/profile.php?id=100075916298048). 
-    • LinkedIn (https://www.linkedin.com/company/eurosiamart/?viewAsMember=true).
+    • Github (https://github.com/Eurosiamart-Rayple-IT-Development)
+    • Website (https://teknivers.com/)
+    • Facebook (https://www.facebook.com/profile.php?id=100075916298048)
+    • LinkedIn (https://www.linkedin.com/company/eurosiamart/?viewAsMember=true)
     
 ## License
 Teknivers is open source software licensed as MIT.
