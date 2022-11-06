@@ -64,7 +64,9 @@ Part 2: Heading
 <p>Steps and commands for running the app are to be included here</p>
 • Update the Composer.
     
-#### composer update
+### composer update
+<p>update full packages of the file</p>
+### key generate
 <p>update full packages of the file</p>
         
 ## Deployment
