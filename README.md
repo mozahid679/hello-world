@@ -61,7 +61,7 @@ For details now how everything has been implemented, refer the source code
 Part 2: Heading
     • Mention the steps here
 ## Running the App
-Steps and commands for running the app are to be included here
+<p>Steps and commands for running the app are to be included here</p>
     • Update the Composer :
         #### composer update
         
