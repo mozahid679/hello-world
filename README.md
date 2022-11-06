@@ -54,9 +54,8 @@ You can install and use **Teknivers** as follows:
 All installation steps go here.
 
 1. Clone or download this Repositories    ```sh
-   git clone https://github.com/learnwithsumit/hack-programming-hero.git
+   git clone https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers
    ``` 
-   (`https://github.com/Eurosiamart-Rayple-IT-Development/Teknivers`).
 3. If the file was downloaded, then unzip it and open it on a Code Editor.
 4. 
 
