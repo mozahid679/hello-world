@@ -95,27 +95,6 @@ See the section about [deployment](https://github.com/laravel/laravel) for more 
 
 ## Extensions
 
-
-
-
-https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""></script>
-<script src=""
-
-
-
 ### List of Javascript file used in this application :
 
 + [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
