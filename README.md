@@ -12,7 +12,6 @@
     • Versioning
     • Authors
     • License
-    • Acknowledgments
     
 ## Getting Started
 
@@ -93,10 +92,15 @@ The Laravel PHP artisan serve command helps running applications on the PHP deve
 This utility is extensively used for setting up migrations, routes listings, queueing, class creations, and other related tasks.
 
 See the section about [deployment](https://github.com/laravel/laravel) for more information.
-        
-## Deployment
 
-This section is completely optional. Add additional notes about how to deploy this on a live system.
+## Extensions
+
+### Install the below extensions:
+
++ ESLint
++ Prettier
++ Path Autocomplete
+
 
 ## Authors
 
